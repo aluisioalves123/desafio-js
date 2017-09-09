@@ -27,6 +27,7 @@ $(document).ready(function() {
 
 	 	//SE não ocorrer tudo certo a alerta ñ deve fechar. Exibir um toastr.error com a mensagem do erro retornada pelo servidor
 	 		
+	 		
 	
 	 });
 });
